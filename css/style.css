@@ -220,7 +220,6 @@ nav .login button {
 .column-small h2 {
     padding: 24px;
 
-    font-weight: 500;
     font-size: 48px;
     font-weight: 900;
     text-align: left;
@@ -291,6 +290,73 @@ nav .login button {
 /* fine sezioni grigie */
 
 /* sezione call to action */
+.big-content {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.big-content h2 {
+
+    font-size: 48px;
+    font-weight: 900;
+    text-align: center;
+    line-height: 57.6px;
+
+    color: #23272A;
+}
+
+.big-content h3 {
+    margin-bottom: 48px;
+
+    font-weight: bold;
+    font-size: 32px;
+    text-align: center;
+
+    color: #23272A;
+
+}
+
+.big-content p {
+    padding: 16px 120px;
+
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    line-height: 32.5px;
+
+    color: #23272A;
+}
+
+.big-content img {
+    flex-grow: 1;
+}
+
+.big-content .download .stars {
+    width: 100%;
+}
+
+.big-content .download {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.big-content button {
+
+    padding: 18px 32px;
+
+    border-radius: 50px;
+    border: none;
+    font-size: 18px;
+
+    background-color: #8EA1E1;
+    color: white;
+}
+
+
+
 /* fine sezione call to action */
 
 /* sezione footer */
