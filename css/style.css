@@ -241,32 +241,46 @@ nav .login button {
 }
 
 
-
 .big-content {
-    background-color: #228b22;
-    height: 600px;
+    /* background-color: #228b22;
+    height: 600px; */
     /* test */
+}
+
+.white-waves {
+    height: auto;
+    margin-bottom: -4px;
+}
+
+.white-waves img {
+    width: 100%;
+    background-color: #f6f6f6;
+    transform: scaleX(-1);
 }
 
 /* fine sezioni bianche */
 
 
 /* sezioni grigie */
-.waves {
+.grey-waves {
     height: auto;
     margin-bottom: -4px;
 }
 
-.waves img {
+.grey-waves img {
     width: 100%;
     background-color: white;
+}
+
+.flip {
+    transform: scaleX(1);
 }
 
 .bg-gray {
     background-color: #f6f6f6;
 }
 
-.ptop120 {
+.p120 {
     padding: 120px 0px;
 }
 
@@ -274,9 +288,10 @@ nav .login button {
     margin-right: 120px;
 }
 
-
-
 /* fine sezioni grigie */
+
+/* sezione call to action */
+/* fine sezione call to action */
 
 /* sezione footer */
 
