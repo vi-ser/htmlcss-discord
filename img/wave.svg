@@ -1,1 +1,10 @@
-<svg class="wave-1hkxOo" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 100" preserveAspectRatio="none"><path class="wavePath-haxJK1 animationPaused-2hZ4IO" d="M826.337463,25.5396311 C670.970254,58.655965 603.696181,68.7870267 447.802481,35.1443383 C293.342778,1.81111414 137.33377,1.81111414 0,1.81111414 L0,150 L1920,150 L1920,1.81111414 C1739.53523,-16.6853983 1679.86404,73.1607868 1389.7826,37.4859505 C1099.70117,1.81111414 981.704672,-7.57670281 826.337463,25.5396311 Z" fill="currentColor"></path></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1440 100" style="enable-background:new 0 0 1440 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F6F6F6;}
+</style>
+<path class="st0" d="M826.3,25.5C671,58.7,603.7,68.8,447.8,35.1C293.3,1.8,137.3,1.8,0,1.8V150h1920V1.8
+	c-180.5-18.5-240.1,71.3-530.2,35.7S981.7-7.6,826.3,25.5z"/>
+</svg>

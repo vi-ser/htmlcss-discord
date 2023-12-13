@@ -179,7 +179,7 @@ nav .login button {
 /* fine sezione hero */
 
 
-/* sezioni grigie */
+/* sezioni bianche */
 .row {
     display: flex;
     justify-content: space-between;
@@ -226,7 +226,7 @@ nav .login button {
     text-align: left;
     line-height: 57.6px;
 
-    color: 23272A;
+    color: #23272A;
 }
 
 .column-small p {
@@ -237,7 +237,7 @@ nav .login button {
     text-align: left;
     line-height: 32.5px;
 
-    color: 23272A;
+    color: #23272A;
 }
 
 
@@ -248,8 +248,35 @@ nav .login button {
     /* test */
 }
 
-/* fine sezioni grigie */
+/* fine sezioni bianche */
 
+
+/* sezioni grigie */
+.waves {
+    height: auto;
+    margin-bottom: -4px;
+}
+
+.waves img {
+    width: 100%;
+    background-color: white;
+}
+
+.bg-gray {
+    background-color: #f6f6f6;
+}
+
+.ptop120 {
+    padding: 120px 0px;
+}
+
+.mright120 {
+    margin-right: 120px;
+}
+
+
+
+/* fine sezioni grigie */
 
 /* sezione footer */
 
