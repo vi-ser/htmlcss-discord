@@ -182,27 +182,64 @@ nav .login button {
 /* sezioni grigie */
 .row {
     display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
 }
 
+#study-group {
+    margin-top: 120px;
+    margin-bottom: 80px;
+}
+
+
 .column-big {
-    background-color: #1e90ff;
+    flex-grow: 1;
+    /* background-color: #1e90ff;
     height: 400px;
-    border: dashed 2px black;
+    border: dashed 2px black; */
     /* test */
 
     /* width: 60%; */
-    flex-grow: 1;
+    /* flex-grow: 1; */
+}
+
+.column-big img {
+    width: 80%;
 }
 
 .column-small {
-    background-color: #ffc0cb;
-    height: 400px;
-    border: dashed 2px black;
+    /* background-color: #ffc0cb;
+    height: auto;
+    border: dashed 2px black; */
     /* test */
 
     /* width: 40%; */
     width: 400px;
 }
+
+.column-small h2 {
+    padding: 24px;
+
+    font-weight: 500;
+    font-size: 48px;
+    font-weight: 900;
+    text-align: left;
+    line-height: 57.6px;
+
+    color: 23272A;
+}
+
+.column-small p {
+    padding: 8px 24px 12px;
+
+    font-weight: 500;
+    font-size: 18px;
+    text-align: left;
+    line-height: 32.5px;
+
+    color: 23272A;
+}
+
 
 
 .big-content {
