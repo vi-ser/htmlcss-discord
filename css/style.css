@@ -303,13 +303,18 @@ nav .login button {
 }
 
 .big-content h3 {
-    margin-bottom: 48px;
+
+    padding-top: 28px;
 
     font-weight: bold;
     font-size: 32px;
     text-align: center;
 
     color: #23272A;
+
+    background-image: url(/img/stars.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
 
 }
 
@@ -341,6 +346,7 @@ nav .login button {
 
 .big-content button {
 
+    margin-top: 48px;
     padding: 18px 32px;
 
     border-radius: 50px;
@@ -370,7 +376,9 @@ footer {
   */
 
 footer #footer-top {
+    padding-bottom: 30px;
     margin-bottom: 30px;
+    border-bottom: 0.5px solid #8EA1E1;
 }
 
 footer #footer-top .footer-links {
